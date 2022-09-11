@@ -1,0 +1,22 @@
+#change{
+    font-weight: 550;
+    place-items: right;
+}
+#head{
+    color: orange;
+    text-align: center;
+}
+.frogs td{
+    border: 5px solid black;
+    width: 280px;
+    height: 130px;
+    text-align: center;
+    
+}
+.frogs{
+    display: flex;
+    justify-content: center;
+}
+.frogs tr .a{
+    background-image: url("frog.jpg");
+}
